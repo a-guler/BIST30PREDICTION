@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/1c7207b7d91f4e039b35c1d71545db46/artifacts
+end_time: 1670078739040
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1c7207b7d91f4e039b35c1d71545db46
+run_name: monumental-horse-571
+run_uuid: 1c7207b7d91f4e039b35c1d71545db46
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670078738914
+status: 4
+tags: []
+user_id: suley

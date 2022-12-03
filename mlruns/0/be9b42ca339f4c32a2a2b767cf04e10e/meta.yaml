@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/be9b42ca339f4c32a2a2b767cf04e10e/artifacts
+end_time: 1670078934864
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: be9b42ca339f4c32a2a2b767cf04e10e
+run_name: unruly-seal-445
+run_uuid: be9b42ca339f4c32a2a2b767cf04e10e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670078927702
+status: 4
+tags: []
+user_id: suley
